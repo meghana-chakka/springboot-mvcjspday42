@@ -1,0 +1,36 @@
+2022-05-16 17:43:22.747  INFO 9424 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Starting SpringbootMvcjspday42Application using Java 17.0.2 on DESKTOP-FKAEKGE with PID 9424 (C:\Users\jobiak\springboot\springboot-mvcjspday42\target\classes started by jobiak in C:\Users\jobiak\springboot\springboot-mvcjspday42)
+2022-05-16 17:43:22.748  INFO 9424 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : No active profile set, falling back to 1 default profile: "default"
+2022-05-16 17:43:22.796  INFO 9424 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-16 17:43:22.796  INFO 9424 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-16 17:43:23.618  INFO 9424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-16 17:43:23.631  INFO 9424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-16 17:43:23.632  INFO 9424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-05-16 17:43:23.800  INFO 9424 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-05-16 17:43:23.809  INFO 9424 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-16 17:43:23.809  INFO 9424 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1013 ms
+2022-05-16 17:43:24.102  INFO 9424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-16 17:43:24.140  INFO 9424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-16 17:43:24.150  INFO 9424 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Started SpringbootMvcjspday42Application in 1.788 seconds (JVM running for 2.575)
+2022-05-16 17:43:41.699  INFO 9424 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 17:43:41.700  INFO 9424 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-16 17:43:41.703  INFO 9424 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-05-16 17:44:06.222  INFO 9424 --- [http-nio-8081-exec-3] c.j.s.controller.LoginController         : entered get method
+2022-05-16 17:45:43.121  INFO 9424 --- [RMI TCP Connection(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-05-16 17:45:50.402  INFO 8236 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Starting SpringbootMvcjspday42Application using Java 17.0.2 on DESKTOP-FKAEKGE with PID 8236 (C:\Users\jobiak\springboot\springboot-mvcjspday42\target\classes started by jobiak in C:\Users\jobiak\springboot\springboot-mvcjspday42)
+2022-05-16 17:45:50.406  INFO 8236 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : No active profile set, falling back to 1 default profile: "default"
+2022-05-16 17:45:50.455  INFO 8236 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-16 17:45:50.455  INFO 8236 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-16 17:45:51.246  INFO 8236 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-16 17:45:51.256  INFO 8236 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-16 17:45:51.257  INFO 8236 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-05-16 17:45:51.410  INFO 8236 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-05-16 17:45:51.417  INFO 8236 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-16 17:45:51.417  INFO 8236 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 961 ms
+2022-05-16 17:45:51.755  INFO 8236 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-16 17:45:51.791  INFO 8236 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-16 17:45:51.806  INFO 8236 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Started SpringbootMvcjspday42Application in 1.733 seconds (JVM running for 2.457)
+2022-05-16 17:46:21.826  INFO 8236 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 17:46:21.827  INFO 8236 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-16 17:46:21.830  INFO 8236 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-05-16 17:46:26.195  INFO 8236 --- [http-nio-8081-exec-5] c.j.s.controller.LoginController         : entered get method
+2022-05-16 17:47:10.033  INFO 8236 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
